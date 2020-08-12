@@ -1,0 +1,2 @@
+include ':app', ':lib_log_format', ':lib_state_layout', ':lib_framework'
+rootProject.name='KtBaseMvp'
