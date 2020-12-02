@@ -1,10 +1,10 @@
 ext {
 
     //后面需要修改成ktx的版本
-    android = [compileSdkVersion: 27,
+    android = [compileSdkVersion: 29,
                buildToolsVersion: "27.1.1",
-               applicationId    : "com.frida.x.base",
-               minSdkVersion    : 18,
+               applicationId    : "com.frida.x.base.androidx",
+               minSdkVersion    : 21,
                targetSdkVersion : 27,
                versionCode      : 1,
                versionName      : "1.0.0"]
